@@ -26,7 +26,7 @@
         <div class="container">
             <div class="header-content py-2">
                 <div class="logo-part">
-                    <a href=""><h1> <span>Blaze</span>-up</h1></a>
+                    <a href="index.php"><h1> <span>Blaze</span>-up</h1></a>
                 </div>
                 <div class="cart-part d-flex align-items-center">
 
@@ -36,7 +36,7 @@
                             13
                         </span>
                     </a>
-                    <p><a class="btn ms-3 mt-3 login-btn" href="">Login</a></p>
+                    <p><a class="btn ms-3 mt-3 login-btn" href="login.php">Login</a></p>
 
                 </div>
             </div>

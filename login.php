@@ -27,7 +27,7 @@
             </div>
             <div class="form-group mt-3">
                 <div class="col-sm-offset-2 col-sm-10 mx-auto px-3 text-center">
-                    <p>If you Don't have any account, please <a href="registration.php" target="" rel="noopener noreferrer">registration</a> here.</p>
+                    <p>If you Don't have any account, please <a href="register.php" target="" rel="noopener noreferrer">registration</a> here.</p>
             </div>
             </div>
         </form>
