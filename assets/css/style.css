@@ -269,3 +269,64 @@
  .category-list li:hover a{
    color: #709b1d;
  }
+
+  /*
+***************************
+     single Products page
+***************************
+ */
+
+   /*
+=========================
+        single CSS 
+=========================
+ */
+
+ .mainimg {
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   object-fit: fill;
+}
+
+.subimg {
+   object-fit: fill;
+   filter: blur(3px);
+}
+
+.subimg:hover {
+   object-fit: fill;
+   filter: blur(0px);
+   transition: .5s;
+}
+
+.color-bg {
+   background-color: rgb(109, 150, 28) !important;
+   color: whitesmoke;
+   box-shadow: 5px 8px 10px rgb(190, 200, 170);
+}
+
+.lefticon {
+   position: absolute;
+   top: 45%;
+   z-index: 1;
+}
+
+  /*
+***************************
+     Login page
+***************************
+ */
+
+ #registration {
+   width: 600px;
+   color: rgb(109, 150, 28);
+}
+
+#submit {
+   font-size: larger;
+   padding-left: 50px;
+   padding-right: 50px;
+   background-color: rgb(109, 150, 28);
+   border: 0px;
+   border-radius: 5px;
+   color: whitesmoke;
+}
